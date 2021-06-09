@@ -1,4 +1,4 @@
 # gopass
- the strongest password
+ password encrypt and decode
 
 # usage
