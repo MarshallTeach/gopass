@@ -1,0 +1,2 @@
+# gopass
+ the strongest password
