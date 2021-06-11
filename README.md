@@ -1,5 +1,5 @@
 # gopass
- password encrypt and decode
+ password encrypt
 
 # usage
 go get github.com/MarshallTeach/gopass
